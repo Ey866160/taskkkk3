@@ -1,0 +1,61 @@
+.cotainer{
+    width: 100%;
+    margin: auto;
+    
+  
+ }
+  .header{
+   background-image: url(bg-header-desktop.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+    justify-content: center;
+    text-align: center;
+ 
+   padding-top: 120px;  
+   padding-bottom: 150px;
+   
+  } 
+   #btn1{
+    background-color: rgb(74, 207, 163);
+    padding: 20px;
+    border-radius: 25px;
+    border-style: none;
+    cursor: pointer;
+    font-size: 20px;
+    color: azure;
+   }   
+   #btn2{
+    background-color: rgb(85, 71, 205);
+    border-radius: 25px;
+    padding:20px;
+    border-style: none;
+    cursor: pointer;
+    font-size: 20px;
+    color: azure;
+   }
+   .sec2,.sec6{
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 100px;
+    
+   }
+   .sec3{
+    text-align: left;
+    padding-bottom: 100px;
+   }
+   .sec4{
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 100px;
+   }
+   .sec5{
+    text-align: center;
+    justify-content: center;
+    /* text-align: justify;
+    margin:auto; */
+   }
+  footer{
+    background-color: rgb(207, 203, 203);
+    font-size: 20px;
+  }
